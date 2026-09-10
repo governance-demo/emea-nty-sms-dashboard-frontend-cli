@@ -1,2 +1,6 @@
 # emea-nty-sms-dashboard-frontend-cli
-notifications / critical / emea
+
+Team: **notifications**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
